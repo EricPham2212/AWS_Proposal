@@ -1,8 +1,0 @@
-- **Internship Report**
-  - [Worklog](worklog.md)
-  - [Proposal](proposal.md)
-  - [Translated Blogs](translated-blogs.md)
-  - [Events Participated](events.md)
-  - [Workshop](workshop.md)
-  - [Self-Assessment](self-assessment.md)
-  - [Sharing and Feedback](feedback.md)
